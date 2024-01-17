@@ -1,2 +1,2 @@
-# fetch_hdb
+# Fetch HDB
 Fetch historical data from binance public API
